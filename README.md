@@ -27,8 +27,22 @@
 #### Создание репозитория
 ![Создание репозитория](https://github.com/killakazzak/8-1-git-hw/blob/main/img/2024-02-28_16-32-21.jpg)
 
-
-
+```
+git clone https://github.com/killakazzak/netology.git
+git config --global user.name "Denis Ten"
+git config --global user.email "denis.a.ten@gmail.com"
+git status
+echo "Hello World!" >> README.md
+git status
+git diff
+git add README.md
+git diff --staged
+git status
+git commit -m 'First commit'
+git remote set-url origin https://killakazzak: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@github.com/killakazzak/netology.git
+git push origin main
+```
+https://github.com/killakazzak/netology/commit/22f3d2506c1b15c3ab6f0682a188c405f8e54892
 ---
 
 ### Задание 2
