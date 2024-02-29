@@ -24,8 +24,9 @@
 
 ### Задание 1
 
-Создание репозитория
-![Название скриншота 1](https://github.com/killakazzak/8-1-git-hw/blob/main/img/2024-02-28_16-32-21.jpg)
+#### Создание репозитория
+![Создание репозитория](https://github.com/killakazzak/8-1-git-hw/blob/main/img/2024-02-28_16-32-21.jpg)
+
 
 
 ---
