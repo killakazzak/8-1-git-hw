@@ -101,25 +101,28 @@ git push origin main
 git branch dev
 git checkout dev
 ```
-
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/31.png)
 ```
 echo "Всем привет!" > test.sh
 git add test.sh
 git commit -m "Commit message"
 ```
-
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/32.png)
 ```
 git checkout main
 ```
-
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/33.png)
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/34.png)
 
 ```
 git merge dev
 ```
-
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/35.png)
 ```
 git push
 ```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/36.png)
+
 [Ссылка на граф](https://github.com/killakazzak/netology/network)
 ### Задание 4
 
