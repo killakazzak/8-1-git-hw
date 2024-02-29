@@ -126,23 +126,34 @@ git push
 
 [Ссылка на граф](https://github.com/killakazzak/netology/network)
 ### Задание 4
-
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+git branch conflict
+git checkout conflict
 ```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/41.png)
+```
+git add test.sh
+git commit -m "conflict commit"
+```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/42.png)
+```
+git push origin conflict
+```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/43.png)
+```
+git add test.sh
+git commit -m "commit temp"
+git push origin main
+git merge conflict
+git add test.sh
+git commit -m "Resolved conflict in test.sh"
+git push origin main
+```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/44.png)
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/45.png)
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+[Ссылка на README.md](https://github.com/killakazzak/netology/blob/main/README.md)
+
+
+
+
