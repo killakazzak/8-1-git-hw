@@ -74,20 +74,25 @@ git push origin main
 touch .gitignore
 git status
 ```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/21.png)
 ```
 git add .gitignore
 git status
 ```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/22.png)
 ```
 echo "*.pyc" >> .gitignore && echo "cache/" >> .gitignore
 ```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/23.png)
 ```
 git add .gitignore
 git commit -m "Second Commit"
 ```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/24.png)
 ```
 git push origin main
 ```
+![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/25.png)
 
 [Ссылка на README.md](https://github.com/killakazzak/netology/blob/0d2269d19d0a4587a9e5c471208812acfdc84ecc/README.md)
 
