@@ -152,7 +152,7 @@ git push origin main
 ![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/44.png)
 ![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/45.png)
 
-[Ссылка на README.md](https://github.com/killakazzak/netology/blob/main/README.md)
+[Ссылка на файл test.sh](https://github.com/killakazzak/netology/blob/main/test.sh)
 
 
 
