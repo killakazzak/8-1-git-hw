@@ -89,6 +89,8 @@ git commit -m "Second Commit"
 git push origin main
 ```
 
+[Ссылка на README.md](https://github.com/killakazzak/netology/blob/0d2269d19d0a4587a9e5c471208812acfdc84ecc/README.md)
+
 ### Задание 3
 
 `Приведите ответ в свободной форме........`
