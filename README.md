@@ -119,6 +119,7 @@ git merge dev
 ```
 ![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/35.png)
 ```
+git pull
 git push
 ```
 ![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/36.png)
