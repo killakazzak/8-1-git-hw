@@ -64,7 +64,7 @@ git push origin main
 ```
 ![](https://github.com/killakazzak/8-1-git-hw/blob/main/img/9.png)
 
-https://github.com/killakazzak/netology/commit/22f3d2506c1b15c3ab6f0682a188c405f8e54892
+[Ссылка на commit](https://github.com/killakazzak/netology/commit/22f3d2506c1b15c3ab6f0682a188c405f8e54892)
 ---
 
 ### Задание 2
